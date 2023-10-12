@@ -24,7 +24,7 @@
                Margin="0"/>
 
         <Grid BackgroundColor="#FFDADF" 
-              Margin="00"
+              Margin="0"
               Padding="20">
 
             <Grid.RowDefinitions>
